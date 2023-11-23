@@ -1,5 +1,6 @@
 <p align="left"><a href="https://www.linkedin.com/in/vasanthakumar-s-117910129/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue" width="8%"></a></p>
 <p align="center"><img alt="vasanth17" src="https://github.com/vasanth17/Vasanthakumar-S/blob/main/vasanth_jawa_bike.png" width="40%" /></p>
+<p align="center"><img alt="vasanth17" src="https://github.com/vasanth17/Vasanthakumar-S/blob/main/vasanth_jawa_bike_bg_rmv.png" width="40%" /></p>
 <h1 align="center">Hi 👋, I'm VASANTHAKUMAR S</h1>
 <h2 align="center"><img src="https://github.com/vasanth17/Vasanthakumar-S/blob/main/java.png" alt="flutter" width="55" height="40"/> Full stack Developer - Java</h3>
 <h2 align="center">Senior Software Developer 💻, NIC, Chennai</h3>
