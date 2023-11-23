@@ -1,6 +1,3 @@
-# vasanthakumar-S
-
-
 <p align="left"><a href="https://www.linkedin.com/in/vasanthakumar-s-117910129/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue" width="8%"></a></p>
 <p align="center"><img alt="vasanth17" src="https://github.com/vasanth17/Vasanthakumar-S/blob/main/vasanth_jawa_bike.png" width="40%" /></p>
 <h1 align="center">Hi 👋, I'm VASANTHAKUMAR S</h1>
