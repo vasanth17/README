@@ -5,7 +5,7 @@
 <p align="center"><img alt="vasanth17" src="https://github.com/vasanth17/Vasanthakumar-S/blob/main/vasanth_jawa_bike.png" width="40%" /></p>
 <h1 align="center">Hi 👋, I'm VASANTHAKUMAR S</h1>
 <h2 align="center"><img src="https://github.com/vasanth17/Vasanthakumar-S/blob/main/java.png" alt="flutter" width="55" height="40"/> Full stack Developer - Java</h3>
-<h2 align="center">Senior Software Developer👨💻, NIC, Chennai</h3>
+<h2 align="center">Senior Software Developer 💻, NIC, Chennai</h3>
  <p></p><img align="right"  src="https://github.com/vasanth17/Vasanthakumar-S/blob/main/beard_img.gif" width="55%"/>
 
 > A passionate self-taught Senior Software Developer and a freelance software engineer from chennai-india.<br>
